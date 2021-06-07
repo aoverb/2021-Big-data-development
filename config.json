@@ -1,0 +1,12 @@
+{
+    	"bucketName" : "wuhongming",
+    	"filePath  " : "C:\\Users\\Sayori\\workspace\\01\\hello.txt",
+    	"accessKey" : "294D4C03E0EB6B66040F",
+    	"secretKey" : "W0REODlBRjgzOTU1NEVENDRBMTE1MjY0QTg3NzYy",
+    	"serviceEndpoint" : "http://10.16.0.1:81",
+    	"signingRegion" : "",
+    	"syncPath" : "D:\\1\\sync\\",
+    	"sliceThreshold" : "20",
+    	"sliceSize" : "5242880",
+    	"lastSync" : "2020-2-20 15:15:15"
+}
