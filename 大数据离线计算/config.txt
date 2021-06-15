@@ -1,0 +1,5 @@
+bigdata118.depts.bingosoft.net
+22118
+user29
+pass@bingo29
+user29_db
